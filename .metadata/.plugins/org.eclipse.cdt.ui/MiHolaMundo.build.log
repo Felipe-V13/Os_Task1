@@ -1,0 +1,9 @@
+21:25:34 **** Incremental Build of configuration Nios II for project MiHolaMundo ****
+make all 
+Info: Building ../MiHolaMundo_bsp/
+C:/intelFPGA/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../MiHolaMundo_bsp/
+[BSP build complete]
+[MiHolaMundo build complete]
+
+21:25:34 Build Finished (took 426ms)
+

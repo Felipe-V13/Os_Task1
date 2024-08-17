@@ -1,0 +1,43 @@
+21:21:24 **** Incremental Build of configuration Nios II for project MiHolaMundo ****
+make all 
+Info: Building ../MiHolaMundo_bsp/
+C:/intelFPGA/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../MiHolaMundo_bsp/
+[BSP build complete]
+Info: Compiling hello_world_small.c to obj/default/hello_world_small.o
+nios2-elf-gcc -xc -MP -MMD -c -I../MiHolaMundo_bsp//HAL/inc -I../MiHolaMundo_bsp/ -I../MiHolaMundo_bsp//drivers/inc  -pipe -D__hal__ -DALT_NO_C_PLUS_PLUS -DALT_NO_CLEAN_EXIT -D'exit(a)=_exit(a)' -DALT_NO_EXIT -DALT_USE_DIRECT_DRIVERS -DALT_NO_INSTRUCTION_EMULATION -DALT_USE_SMALL_DRIVERS -DSMALL_C_LIB -DALT_SINGLE_THREADED    -Os -g -Wall   -mno-hw-div -mno-hw-mul -mno-hw-mulx -mgpopt=global  -o obj/default/hello_world_small.o hello_world_small.c
+hello_world_small.c: In function 'main':
+hello_world_small.c:7:36: warning: initialization makes pointer from integer without a cast [-Wint-conversion]
+   volatile unsigned short * led1 = (short ) 0x3040;
+                                    ^
+hello_world_small.c:16:7: warning: implicit declaration of function 'usleep' [-Wimplicit-function-declaration]
+       usleep(1); // NO USAR SE USA LA INTERRUPCION DEL TIMER
+       ^
+Info: Linking MiHolaMundo.elf
+nios2-elf-g++  -T'../MiHolaMundo_bsp//linker.x' -msys-crt0='../MiHolaMundo_bsp//obj/HAL/src/crt0.o' -msys-lib=hal_bsp -L../MiHolaMundo_bsp/  -msmallc  -Wl,-Map=MiHolaMundo.map   -Os -g -Wall   -mno-hw-div -mno-hw-mul -mno-hw-mulx -mgpopt=global  -o MiHolaMundo.elf obj/default/hello_world_small.o -lm -msys-lib=m
+nios2-elf-insert MiHolaMundo.elf --thread_model hal --cpu_name cpu --qsys true --simulation_enabled false --stderr_dev jtag_uart_0 --stdin_dev jtag_uart_0 --stdout_dev jtag_uart_0 --sopc_system_name cpu --quartus_project_dir "C:/operativos/hw1" --jdi ../..//output_files/hw1.jdi --sopcinfo C:/operativos/hw1/software/MiHolaMundo_bsp/../../cpu.sopcinfo
+Info: (MiHolaMundo.elf) 1292 Bytes program size (code + initialized data).
+Info:                   2800 Bytes free for stack + heap.
+Info: Creating MiHolaMundo.objdump
+nios2-elf-objdump --disassemble --syms --all-header --source MiHolaMundo.elf >MiHolaMundo.objdump
+[MiHolaMundo build complete]
+
+21:21:24 Build Finished (took 735ms)
+
+21:21:41 **** Build of configuration Nios II for project MiHolaMundo ****
+make all 
+Info: Building ../MiHolaMundo_bsp/
+C:/intelFPGA/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../MiHolaMundo_bsp/
+[BSP build complete]
+[MiHolaMundo build complete]
+21:21:42 **** Incremental Build of configuration Nios II for project MiHolaMundo ****
+make all 
+Info: Building ../MiHolaMundo_bsp/
+C:/intelFPGA/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../MiHolaMundo_bsp/
+[BSP build complete]
+[MiHolaMundo build complete]
+21:25:34 **** Incremental Build of configuration Nios II for project MiHolaMundo ****
+make all 
+Info: Building ../MiHolaMundo_bsp/
+C:/intelFPGA/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../MiHolaMundo_bsp/
+[BSP build complete]
+[MiHolaMundo build complete]

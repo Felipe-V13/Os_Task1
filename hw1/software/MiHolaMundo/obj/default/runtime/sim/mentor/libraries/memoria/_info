@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/operativos/hw1/software/MiHolaMundo/obj/default/runtime/sim/mentor
+vcpu_memoria
+!s110 1723865139
+!i10b 1
+!s100 jEf=BZ9CIW37aQPHa]zz[3
+IhoiN[R^D[`CSE>Ohz_TQS2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1723862930
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_memoria.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_memoria.v
+L0 21
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723865139.000000
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_memoria.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_memoria.v|-work|memoria|
+!i113 1
+o-work memoria
+tCvgOpt 0

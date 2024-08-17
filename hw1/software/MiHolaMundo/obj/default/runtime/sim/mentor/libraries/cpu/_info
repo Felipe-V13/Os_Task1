@@ -1,0 +1,556 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/operativos/hw1/software/MiHolaMundo/obj/default/runtime/sim/mentor
+vcpu_cpu
+Z1 !s110 1723865139
+!i10b 1
+!s100 UIMoV0Y9zPFN=UlbgN5d92
+Iz]YJ[oZ<G6ZS7CMf3eF=P2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1723862930
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1723865139.000000
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu.v|-work|cpu|
+!i113 1
+Z5 o-work cpu
+Z6 tCvgOpt 0
+vcpu_cpu_cpu
+R1
+!i10b 1
+!s100 ;Y04Z^Ma0IjY:@Ym96URI1
+I@<_i9[=FMNaJW2j^YoRo_2
+R2
+R0
+Z7 w1723862934
+Z8 8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu.v
+Z9 FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu.v
+L0 2834
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu.v|
+Z11 !s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu.v|-work|cpu|
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_debug_slave_sysclk
+R1
+!i10b 1
+!s100 eYYGUDkcZbAgeJG]83?9A3
+IiS]WDMclmRM3gYR<nza_U2
+R2
+R0
+R7
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_sysclk.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_sysclk.v
+Z12 L0 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_sysclk.v|-work|cpu|
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_debug_slave_tck
+R1
+!i10b 1
+!s100 Lci?@VF>oJ0UmT4:l7A>`2
+IGI3bRQL`eV>m3W_8l6bG?1
+R2
+R0
+R7
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_tck.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_tck.v
+R12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_tck.v|-work|cpu|
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_debug_slave_wrapper
+R1
+!i10b 1
+!s100 PQzQ=N:Y>hYMa<YLAW@7z3
+ID3bcC2GChFH?V5I@_m>3l3
+R2
+R0
+R7
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_wrapper.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_wrapper.v
+R12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_debug_slave_wrapper.v|-work|cpu|
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_avalon_reg
+R1
+!i10b 1
+!s100 X=[@mJVJUEIdS8La4[5CN2
+Il]4ZIS?nb?OX68X:AEL6e2
+R2
+R0
+R7
+R8
+R9
+L0 2023
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci
+R1
+!i10b 1
+!s100 ZNUAKJd:eB1j8=GBKJaFg1
+Il]LG93<@]E:@?zHlnQ3eE0
+R2
+R0
+R7
+R8
+R9
+L0 2362
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_break
+R1
+!i10b 1
+!s100 KeC<YND2z]d54Y4oCNa^Y3
+Ig<ZKBNLT>LB8VFcoQgl^h0
+R2
+R0
+R7
+R8
+R9
+L0 295
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_compute_input_tm_cnt
+R1
+!i10b 1
+!s100 febkAVQeM8BfNM148mz;@2
+ITJWQX[fF_:^gWmjWZRoV53
+R2
+R0
+R7
+R8
+R9
+L0 1265
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_dbrk
+R1
+!i10b 1
+!s100 Ql8Mffie;oR4BE=iE`9BW3
+IPbg1Nmol6_@7>idE`AQG41
+R2
+R0
+R7
+R8
+R9
+L0 795
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_debug
+R1
+!i10b 1
+!s100 >om?X2kDeZji5_B9DNJL=3
+IcOmbkE?=@L@=4Y;5D8C2>3
+R2
+R0
+R7
+R8
+R9
+L0 153
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_dtrace
+R1
+!i10b 1
+!s100 P01dSGPXNn8bb5B^mblji0
+I:=Wl]@1hoic><fYY8=zz91
+R2
+R0
+R7
+R8
+R9
+L0 1183
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_fifo
+R1
+!i10b 1
+!s100 N@5L1hU[MBBkZEl35Ia<T1
+IIaULfOg;[Y><86ebOO9Ko3
+R2
+R0
+R7
+R8
+R9
+L0 1427
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_fifo_cnt_inc
+R1
+!i10b 1
+!s100 o;KCJb4^AYbZYQL@In?P;1
+I?`1zdELGZC83g]mA6h^:N3
+R2
+R0
+R7
+R8
+R9
+L0 1380
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_fifo_wrptr_inc
+R1
+!i10b 1
+!s100 <FJmezlDfNJHF15@bKNZ`3
+IO=;HG3427N^5AhU5<:Lk82
+R2
+R0
+R7
+R8
+R9
+L0 1337
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_im
+R1
+!i10b 1
+!s100 HP]>;?GdWaDK6nclcRWOa3
+IhZg:U0EzVM9MiZY<OZnb43
+R2
+R0
+R7
+R8
+R9
+L0 1936
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_itrace
+R1
+!i10b 1
+!s100 3Bm9[KN3iI5NGf>U?N?3B3
+I^^V>TC4WFEMX]>3D]G_Yk2
+R2
+R0
+R7
+R8
+R9
+L0 982
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_pib
+R1
+!i10b 1
+!s100 ?aKm?a5da13@4>PY<R<B22
+I;[RW^=?1]64CVNgNkK5A90
+R2
+R0
+R7
+R8
+R9
+L0 1913
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_td_mode
+R1
+!i10b 1
+!s100 :e@WGzZcRMU@eU>?X1^460
+IlZn9h@T?@AeUa4]L:>5j:2
+R2
+R0
+R7
+R8
+R9
+L0 1115
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_oci_xbrk
+R1
+!i10b 1
+!s100 h348]DPKl1j]=O3O]_jkd0
+If=V1QaKU0_Zf@f;f5Y[MC3
+R2
+R0
+R7
+R8
+R9
+L0 588
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_ocimem
+R1
+!i10b 1
+!s100 5K89Z^1oLzB^=GIJ4Nfdb3
+ILN2^gT0f2RcTdI8RfB^700
+R2
+R0
+R7
+R8
+R9
+L0 2181
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_nios2_performance_monitors
+R1
+!i10b 1
+!s100 6C9SYi>MFo81I`DT2nfc@1
+I7OAOTknR4H0WMaDKZE5`=2
+R2
+R0
+R7
+R8
+R9
+L0 2006
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_ociram_sp_ram_module
+R1
+!i10b 1
+!s100 0m?5<0_IbV7z:UfGAP4oS2
+Id6aHa8S8cmc[BjGnC=5CT0
+R2
+R0
+R7
+R8
+R9
+L0 2116
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_register_bank_a_module
+R1
+!i10b 1
+!s100 9=_b@BL8nP;:F4>nY[oz02
+I8ZS7o8SzOE`0CX`IJB<hV0
+R2
+R0
+R7
+R8
+R9
+R12
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_register_bank_b_module
+R1
+!i10b 1
+!s100 [HRS16:[gTM8<P3f:NXTV0
+I:U[?<m9o0jRX4XCP`=]>93
+R2
+R0
+R7
+R8
+R9
+L0 87
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vcpu_cpu_cpu_test_bench
+R1
+!i10b 1
+!s100 SN6CYhg>gO5CfAC@jCniZ3
+I=9i4HJB=dCL:68^N>OPEG3
+R2
+R0
+R7
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_test_bench.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_test_bench.v
+R12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_test_bench.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_cpu_cpu_test_bench.v|-work|cpu|
+!i113 1
+R5
+R6

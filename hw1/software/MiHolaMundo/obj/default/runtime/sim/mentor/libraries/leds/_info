@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/operativos/hw1/software/MiHolaMundo/obj/default/runtime/sim/mentor
+vcpu_leds
+!s110 1723865139
+!i10b 1
+!s100 5PaGj`9B<=>=6Z3=3Nj?O3
+Iii2QeYS8YAA5<`3J`EmG@1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1723862930
+8C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_leds.v
+FC:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_leds.v
+L0 21
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1723865139.000000
+!s107 C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_leds.v|
+!s90 -reportprogress|300|C:/operativos/hw1/NIOS/testbench/cpu_tb/simulation/submodules/cpu_leds.v|-work|leds|
+!i113 1
+o-work leds
+tCvgOpt 0
